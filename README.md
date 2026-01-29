@@ -12,9 +12,9 @@ This repository contains projects and experiments exploring distributed systems 
 
 ## About Me
 
-**Name:** [Your Name]  
-**Course:** Distributed Computing  
-**Semester:** [Current Semester]
+Name:Samantha Baker
+Course: Distributed Computing  
+Semester: Spring 2026
 
 ## Projects
 
@@ -22,4 +22,4 @@ Coming soon!
 
 ---
 
-*Last updated: [Today's Date]*
+*Last updated: 1/29/26*
