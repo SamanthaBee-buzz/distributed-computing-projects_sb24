@@ -12,8 +12,10 @@ This repository contains projects and experiments exploring distributed systems 
 
 ## About Me
 
-**Name: Samantha Baker**
+Name: Samantha Baker
+
 Course: Distributed Computing  
+
 Semester: Spring 2026
 
 ## Projects
